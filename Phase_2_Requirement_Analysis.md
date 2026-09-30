@@ -1,10 +1,9 @@
 # Phase 2: Requirement Analysis Phase
 
-**Team ID:** SWTID-2026-4746  
+**Team ID:** SWTID-2026-6246 
 **Project Title:** Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer  
 **Phase:** Phase 2 - Requirement Analysis Phase  
-**Team Members:** Syed Mahmoodh J S (Team Leader & GitHub Repository Owner), Shaheen A, Mohammed Arshad M, Shenil X, Jenish R
-
+**Team Members:**Ariyan G S (Team Leader & GitHub Repository Owner)Jothish H S ,Babu Hussain M ,Mohamed Rashif, Ahamed Jameel S )
 ## Problem Statement
 The current IT procurement process lacks efficiency and automation, resulting in delays and manual overhead, particularly in handling standard laptop orders. Requests for standard laptops often require configuration, but this step is prone to oversight or delay, leading to frustration among users and inefficient resource allocation within the IT department.
 
