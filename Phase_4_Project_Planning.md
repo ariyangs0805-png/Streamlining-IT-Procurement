@@ -1,9 +1,9 @@
 # Phase 4: Project Planning Phase
 
-**Team ID:** SWTID-2026-4746  
+**Team ID:** SWTID-2026-6246 
 **Project Title:** Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer  
 **Phase:** Phase 4 - Project Planning Phase  
-**Team Members:** Syed Mahmoodh J S (Team Leader & GitHub Repository Owner), Shaheen A, Mohammed Arshad M, Shenil X, Jenish R
+**Team Members:** Ariyan G S (Team Leader & GitHub Repository Owner)Jothish H S ,Babu Hussain M ,Mohamed Rashif, Ahamed Jameel S )
 
 ## Work Breakdown Structure & Role Assignment
 * **Syed Mahmoodh J S (Team Leader & GitHub Repository Owner):** System architecture, Flow Designer logic implementation, GitHub repository management, and primary code maintainer.
