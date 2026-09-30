@@ -7,4 +7,4 @@
 ## Project Demonstration
 * **Project Name:** Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
 * **Purpose of the Project:** To create a seamless experience for users requesting standard laptops by ensuring timely configuration and reducing manual IT intervention.
-* **Demonstration Video Link:**https://drive.google.com/file/d/1r2APmHBtVAfAMOIpntNYBmblLnq6xbb9/view?usp=drive_link
+* **Demonstration Video Link:**https://docs.google.com/videos/d/1AgDbfYHlbT8twjpjPUVP8gHRV6gdeQ7yAELLGvxSpnQ/play?usp=sharing
