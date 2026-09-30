@@ -1,6 +1,6 @@
-# Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer
+# Streamlining IT Procurement
 
-**Team ID:** SWTID-2026-4746  
+**Team ID:** SWTID-2026-6246 
 **Platform:** ServiceNow (Flow Designer & Service Catalog)
 
 ## Project Overview
@@ -19,8 +19,8 @@ This project is maintained and submitted phase-wise according to the Naan Mudhal
 * **[Phase 8: Project Demonstration](./8_Project_Demonstration_Phase)** 
 
 ## Team Members
-* **Syed Mahmoodh J S** - Team Leader & GitHub Repository Owner
-* **Shaheen A** - Team Member
-* **Mohammed Arshad M** - Team Member
-* **Shenil X** - Team Member
-* **Jenish R** - Team Member
+* **Ariyan G S** - Team Leader & GitHub Repository Owner
+* **Jothish H S** - Team Member
+* **Babu Hussain M** - Team Member
+* **Mohamed Rashif B** - Team Member
+* **Ahamed Jameel S** - Team Member
