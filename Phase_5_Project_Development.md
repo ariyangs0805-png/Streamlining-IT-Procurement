@@ -1,10 +1,9 @@
 # Phase 5: Project Development Phase
 
-**Team ID:** SWTID-2026-4746  
+**Team ID:** SWTID-2026-6246  
 **Project Title:** Streamlining IT Procurement: Automating Standard Laptop Orders with Flow Designer  
 **Phase:** Phase 5 - Project Development Phase  
-**Team Members:** Syed Mahmoodh J S (Team Leader & GitHub Repository Owner), Shaheen A, Mohammed Arshad M, Shenil X, Jenish R
-
+**Team Members:** Ariyan G S (Team Leader & GitHub Repository Owner)Jothish H S ,Babu Hussain M ,Mohamed Rashif, Ahamed Jameel S )
 ## Milestone 1: Flow Creation
 * Navigated to Flow Designer and created a new flow named "Standard Laptop task" running as System User.
 * Set the trigger condition to "Service Catalog".
